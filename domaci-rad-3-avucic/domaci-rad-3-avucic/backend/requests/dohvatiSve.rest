@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/troskovi
+content-type: application/json
+
+{
+ 
+
+  "vrsta": "prihod",
+  "opis": "plaća",
+  "iznos": 6000
+}

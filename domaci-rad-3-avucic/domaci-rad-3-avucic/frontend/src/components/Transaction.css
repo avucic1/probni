@@ -1,0 +1,19 @@
+uredi {
+    background-color: #0066ba;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 10px;
+}
+brisi {
+    background-color:orangered;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 10px;
+}
+#ispis {
+    color:white;
+}
